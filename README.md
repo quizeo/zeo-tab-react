@@ -1,4 +1,4 @@
-# zeo-menu-react
+# zeo-tab-react
 A responsive React website that displays work experience with a sidebar for selecting companies. It features a clean UI and smooth interactions.
  
 <strong style="font-weight:bold; display:block; width:100%;">https://zeo-tab-react.netlify.app/</strong>
